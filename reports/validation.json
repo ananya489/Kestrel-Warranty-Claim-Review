@@ -1,0 +1,25 @@
+{
+  "n_validation": 767,
+  "fraud_rate": 0.028683181225554105,
+  "roc_auc": 0.8921293471629043,
+  "average_precision": 0.2793094363788573,
+  "accuracy": 0.9726205997392438,
+  "threshold_for_accuracy": 0.9618195488721805,
+  "precision": 0.5714285714285714,
+  "recall": 0.18181818181818182,
+  "confusion_matrix": [
+    [
+      742,
+      3
+    ],
+    [
+      18,
+      4
+    ]
+  ],
+  "top40_precision": 0.15,
+  "top40_fraud_count": 6,
+  "top40_actual_fraud_value": 7734.0,
+  "top40_actual_fraud_value_per_review": 193.35,
+  "top40_claim_value": 61243.0
+}

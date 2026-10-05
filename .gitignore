@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+# Kestrel data is confidential per ops-policy.pdf
+data/*.csv
+models/*.joblib
+predictions.csv
